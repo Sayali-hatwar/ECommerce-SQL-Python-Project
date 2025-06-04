@@ -20,3 +20,7 @@ Analyzing this dataset offers valuable insights into Target's Brazilian operatio
 
 Dataset Schema
 ![schema_diagram](https://github.com/user-attachments/assets/608d0e1d-d471-4898-a2be-c7a115956188)
+
+## 📊 Power BI Dashboard
+
+[Click here to view the dashboard](https://1drv.ms/u/c/8a0e9e1df0bcd847/EQXvH740Bc5FlIuJsQbN4T4B6SIzsPqmVeJizS1DO040pw?e=CMsSJR)
